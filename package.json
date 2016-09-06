@@ -1,0 +1,22 @@
+{
+  "name": "MyPokedex",
+  "version": "1.0.0",
+  "description": "Example of front techs homework #1.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontTechsTU/MyPokedex.git"
+  },
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrontTechsTU/MyPokedex/issues"
+  },
+  "homepage": "https://github.com/FrontTechsTU/MyPokedex#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
